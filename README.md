@@ -1,10 +1,10 @@
 
 
-# Frontend Mentor - Product View Solution
+# Frontend Mentor - Four Card Section Challenge
 
   
 
-This is a solution to the [Product View challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [Four Card Section Challente](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -74,11 +74,16 @@ Even though it could be done in CSS, I thought it would be nice to practice doin
   
   ***Cool Stuff:*** I added some animations. Feel free to explore and find out what I did ! 😁
 
+**A problem:**
+I wasn't able to access the 1.png/2.png inside the images folder when coding the Javascript. That's why the images are outside the folder... 😥
+
 **Some questions:**
 
--   How can I access the images on the images folder in Javascript?
+-   How can I access images inside a folder in Javascript?
     
 -   How can I improve my codes?
+
+- Did you liked the cool stuff I added? What would you do differently?
 
 
 ### Built with
