@@ -58,7 +58,7 @@ Build out this card section and get it looking as close to the design as possibl
 
 - Solution URL: [GitHub](https://github.com/ProfessoraBianca/FourCardSectionChallenge)
 
-- Live Site URL: [Four Card Section Challenge Site](https://product-view-challenge-pi.vercel.app/)
+- Live Site URL: [Four Card Section Challenge Site](https://four-card-section-challenge-one.vercel.app/)
 
   
 
